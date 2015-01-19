@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bossbar.jar">
+    <output-path>$PROJECT_DIR$/../../Minecraft Testing/MF/plugins</output-path>
+    <root id="archive" name="Bossbar.jar">
+      <element id="module-output" name="Bossbar" />
+    </root>
+  </artifact>
+</component>

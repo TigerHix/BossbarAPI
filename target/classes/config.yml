@@ -1,0 +1,3 @@
+# Set to false to disable the auto updater
+autoUpdate: false
+testMode: false

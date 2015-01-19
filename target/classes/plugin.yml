@@ -1,0 +1,4 @@
+main: com.tigerhix.bossbar.plugin.Plugin
+name: Bossbar
+version: 1.0
+description: Utilize boss bar for displaying messages!

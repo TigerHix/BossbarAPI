@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BarAPI:jar">
+    <output-path>$PROJECT_DIR$/../Hex/lib</output-path>
+    <root id="archive" name="BossBar.jar">
+      <element id="module-output" name="BarAPI" />
+    </root>
+  </artifact>
+</component>
